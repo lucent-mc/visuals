@@ -1,10 +1,10 @@
-# Lucent Optimizations
+# Lucent Visuals
 
-_Your game has never felt this fast before._
+_Your game has never looked this pretty before._
 
-Lucent Optimizations is the base of all Lucent mod packs, in charge of optimizing the game, enabling us to load the game up with flavourful mods and resources.
+Lucent Visuals is an addon pack for the Lucent group of mod packs, in charge of  enhancing the game, enriching your experience with all other packs while being customizable.
 
-We leverage popular optimization mods with our own configs to set ourselves up for a performant experience.
+We leverage popular visual mods with our own configs and set out to compliment the gameplay style of all packs.
 
 ## About this Repository
 
@@ -13,4 +13,4 @@ There are some added directories that are ignored by minecraft, but useful for m
 
 ## About this mod pack
 
-If you want to learn more about Lucent Optimizations, please check out the [wiki](https://github.com/lucent-mc/adventures/wiki/Lucent-Optimizations).
+If you want to learn more about Lucent Visuals, please check out the [wiki](https://github.com/lucent-mc/adventures/wiki/Lucent-Visuals).
