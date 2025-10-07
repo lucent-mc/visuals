@@ -13,4 +13,4 @@ There are some added directories that are ignored by minecraft, but useful for m
 
 ## About this mod pack
 
-If you want to learn more about Lucent Visuals, please check out the [wiki](https://github.com/lucent-mc/adventures/wiki/Lucent-Visuals).
+If you want to learn more about Lucent Visuals, please check out the [wiki](https://lucent.mia.cx/Packs/Lucent-Visuals/).
