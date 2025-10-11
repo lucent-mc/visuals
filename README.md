@@ -1,10 +1,10 @@
-# Lucent Visuals
+# Lucent Immersion
 
 _Your game has never looked this pretty before._
 
-Lucent Visuals is an addon pack for the Lucent group of mod packs, in charge of  enhancing the game, enriching your experience with all other packs while being customizable.
+Lucent Immersion is an addon pack for the Lucent group of mod packs, in charge of enhancing the game, enriching your experience with all other packs while being customizable.
 
-We leverage popular visual mods with our own configs and set out to compliment the gameplay style of all packs.
+We leverage popular visual and auditive mods with our own configs and set out to compliment the gameplay style of all Lucent packs.
 
 ## About this Repository
 
